@@ -1,0 +1,17 @@
+.carousel-item{
+    height: 540px;   
+}
+
+.imagem{
+    height: 100%;
+}
+
+section h1{
+    margin: 20px;
+    text-align: center;
+}
+
+section p{
+    padding-left: 200px;
+    padding-right: 200px;
+}
